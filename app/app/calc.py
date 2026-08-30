@@ -3,11 +3,11 @@ Calculator Functions
 """
 
 
-def add(x,y):
+def add(x, y):
     """Add x and y and return results."""
     return x + y
 
-def subtract(x,y):
+
+def subtract(x, y):
     """Add x and y and return results."""
     return y - x
-
